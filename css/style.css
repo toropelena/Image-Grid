@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:300,400,700|Open+Sans:300,400,700,800');
+
+/* font-family: 'Open Sans', sans-serif;
+font-family: 'Montserrat', sans-serif; */
+
+*, *::before, *::after {
+	box-sizing: border-box;
+	
+}
+
+body{	
+	font: 400 14px/2.1 'Open Sans', sans-serif;
+	color: #60606e;
+
+}
+
+.ba-container {
+	width: 1200px;	
+}
+
+a {
+	
+}
+
+img {
+	
+	
+	
+}
